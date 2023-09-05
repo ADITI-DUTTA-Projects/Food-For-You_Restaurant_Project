@@ -1,0 +1,950 @@
+@media screen and (max-width:1399.98px)
+{
+	.banner-note-wrapper{
+  	position: absolute;
+    top: 20%;
+    text-align: center;
+    left: 12%;
+	}
+	.banner-note-wrapper h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3.4rem;
+    font-weight: bold;
+	}
+	.banner-note-wrapper h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 4.6rem;
+    text-transform: uppercase;
+	}
+	.banner-note-wrapper h3 {
+    font-family: "Dubai";
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+	}
+}
+@media (min-width:992px) and (max-width:1199.98px){
+	.banner-note-wrapper {
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    left: 10%;
+	}
+	.banner-note-wrapper h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3.0rem;
+    font-weight: bold;
+	}
+	.banner-note-wrapper h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 4rem;
+    text-transform: uppercase;
+	}
+	.banner-note-wrapper h3 {
+    font-family: "Dubai";
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+	}
+    #choose-enjoy .row {
+    margin-top: unset;
+    }   
+    #choose-enjoy .bread {
+    padding-bottom: 1rem;
+    }
+    #Try_it_today .Image-2 {
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1.2rem;
+    font-weight: bolder;
+    max-width: 20%;
+    }
+    #Try_it_today .Image-2 span {
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-3 {
+    position: absolute;
+    top: 12.5em;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1.2rem;
+    font-weight: bolder;
+    max-width: 20%;
+    }
+    #Try_it_today .Image-3 span {
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    footer {
+    height: auto;
+    background-image: url(../images/BG Image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* padding-bottom: 21%; */
+    color: #fff;
+    }
+    footer .footer-logo {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    }
+    footer p {
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    /* padding: 0rem 4.5rem; */
+    color: #fff;
+    padding-bottom: 3rem;
+    }
+    footer span {
+    color: #fff;
+    padding: 3rem 0rem 3rem;
+    display: inline-block;
+    }
+    footer .Address_wrap {
+    padding-top: 11rem;
+}
+}
+
+@media (min-width:768px) and (max-width:991.98px){
+	.navbar-brand .img-fluid{
+		max-width: 80%;
+	}
+	.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    background: rgba(255,255,255,0.9)!important;
+	}
+	#banner {
+    height: auto;
+    background-image: url(../images/Group 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+    padding-bottom: 80%;
+}
+	.banner-note-wrapper {
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    left: 10%;
+	}
+	.banner-note-wrapper h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.6rem;
+    font-weight: bold;
+	}
+	.banner-note-wrapper h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 3.1rem;
+    text-transform: uppercase;
+	}
+	.banner-note-wrapper h3 {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+	}
+	.happy-hour-text-wrap {
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+    margin-top: 5px;
+	}
+	.happy-hour-text-wrap p {
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+	}
+	.happy-hour-text-wrap span {
+    font-size: 3rem;
+    font-family: 'Fredericka the Great', cursive;
+    line-height: 3rem;
+    padding-left: 1rem;
+	}
+	.banner-note-wrapper button {
+    margin: auto;
+    display: block;
+    font-family: "Dubai";
+    font-weight: bolder;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    border-radius: 0px;
+    padding: 0.3rem 1.2rem;
+    margin-top: 5px;
+    transition: 0.3s all ease;
+	}
+    #choose-enjoy h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2.5rem;
+    }
+    #choose-enjoy p {
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    padding: 0rem 2rem;
+    }
+    #choose-enjoy .row {
+    margin-top: unset;
+    }
+    #choose-enjoy .bread {
+    padding-bottom: 0.8rem;
+    }
+    #choose-enjoy .pasta {
+    padding-bottom: 0.2rem;
+    }
+    #discover h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    }
+    #discover p {
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    padding: 0rem 2rem;
+    }
+    #Try_it_today .Image-1 {
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1rem;
+    font-weight: bolder;
+    max-width: 20%;
+    }
+    #Try_it_today .Image-1 span {
+    font-size: 2.0rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-2 {
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1rem;
+    font-weight: bolder;
+    max-width: 20%;
+    }
+    #Try_it_today .Image-2 span {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-3 {
+    position: absolute;
+    top: 15em;
+    color: #fff;
+    z-index: 999;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1rem;
+    font-weight: bolder;
+    max-width: 20%;
+    }
+    #Try_it_today .Image-3 span {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .image-3 {
+    padding-top: 1.2rem;
+    }
+    #reservation h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    }
+    footer .footer-logo {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    }
+    footer p {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    /* padding: 0rem 4.5rem; */
+    color: #fff;
+    padding-bottom: unset;
+    }
+    footer .Address_wrap {
+    padding-top: 7rem;
+    }
+    footer .Address_wrap p {
+    font-size: 1rem;
+    padding-bottom: unset;
+    padding-top: unset;
+    }
+    footer span {
+    color: #fff;
+    padding: 2rem 0rem 2rem 0rem;
+    display: inline-block;
+    font-size: 0.7rem;
+    }
+}
+@media (min-width:576px) and (max-width:767.98px){
+	.navbar-brand .img-fluid{
+		max-width: 70%;
+	}
+	.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    background: rgba(255,255,255,0.9)!important;
+	}
+	#banner {
+    height: auto;
+    background-image: url(../images/Group 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+    padding-bottom: 80%;
+}
+	.banner-note-wrapper {
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    left: inherit;
+	}
+	.banner-note-wrapper h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.8rem;
+    font-weight: bold;
+	}
+	.banner-note-wrapper h3 {
+    font-family: "Dubai";
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+	}
+	.banner-note-wrapper h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2.4rem;
+    text-transform: uppercase;
+	}
+	hr {
+    margin: auto!important;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;
+    width: 80%;
+	}
+	.happy-hour-text-wrap p {
+    font-size: 0.8rem;
+    font-weight: 500;
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+	}
+	.happy-hour-text-wrap span {
+    font-size: 2.5rem;
+    font-family: 'Fredericka the Great', cursive;
+    line-height: 2.5rem;
+    padding-left: 1rem;
+	}
+	.banner-note-wrapper button {
+    margin: auto;
+    display: block;
+    font-family: "Dubai";
+    font-weight: bolder;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    border-radius: 0px;
+    padding: 0.4rem 0.5rem;
+    margin-top: 2px;
+    transition: 0.3s all ease;
+    font-size: 1rem;
+	}
+    #choose-enjoy {
+    height: auto;
+    margin-top: unset;
+    text-align: center;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 10%;
+    }
+    #choose-enjoy h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2rem;
+    }
+    #choose-enjoy p {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    padding: 0rem 2rem;
+    }
+    #choose-enjoy .bread {
+   padding-bottom: unset; 
+    margin-top: 2rem;
+    }
+    #choose-enjoy .pasta {
+   padding-bottom: unset; 
+    margin-top: 3rem;
+    }
+    #discover h3 {
+    font-family: "Dubai";
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    font-weight: bold;
+    }
+    #discover h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2rem;
+    text-transform: uppercase;
+    }
+    #discover p {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    padding: 0rem 3rem;
+    }
+    .Image-right {
+    margin-top: 2.2rem !important;
+    position: relative;
+    }
+    #Try_it_today .Image-1 {
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 2rem 1.2rem;
+    font-weight: bolder;
+    max-width: 40%;
+    }
+    #Try_it_today .Image-1 span {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-2 {
+    position: absolute;
+    top: 0;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1.2rem;
+    font-weight: bolder;
+    max-width: 50%;
+    }
+    #Try_it_today .Image-3 {
+    position: absolute;
+    top: 9em;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1.2rem;
+    font-weight: bolder;
+    max-width: 50%;
+    }
+    #reservation h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2rem;
+    text-transform: uppercase;
+    }
+    footer {
+    height: auto;
+    background-image: url(../images/BG Image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: unset;
+    color: #fff;
+    }
+    footer .footer-logo {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    }
+    footer p {
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    /* padding: 0rem 4.5rem; */
+    color: #fff;
+    padding-bottom: 2rem;
+    }
+    footer .Address_wrap {
+    padding-top: 1rem;
+    }
+    footer .Address_wrap p {
+    font-size: 1.2rem;
+    padding-bottom: unset;
+    /* padding-top: 3rem; */
+    }
+    footer span {
+    color: #fff;
+    padding: 5rem 0rem 3rem;
+    display: inline-block;
+    }
+	}
+
+	@media (min-width:480px) and (max-width:575.98px){
+	.navbar-brand .img-fluid{
+		max-width: 50%;
+	}
+	.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    background: rgba(255,255,255,0.9)!important;
+	}
+	#banner {
+    height: auto;
+    background-image: url(../images/Group 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+    padding-bottom: 80%;
+}
+	.banner-note-wrapper {
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    left: 10%;
+	}
+	.banner-note-wrapper h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+	.banner-note-wrapper h3 {
+    font-family: "Dubai";
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+	}
+	.banner-note-wrapper h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2rem;
+    text-transform: uppercase;
+    }
+	hr {
+    margin: auto!important;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;
+    width: 80%;
+	}
+	.happy-hour-text-wrap {
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+    margin-top: 5px;
+}
+	.happy-hour-text-wrap p {
+    font-size: 0.8rem;
+    font-weight: 500;
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+}
+	.happy-hour-text-wrap span {
+    font-size: 2rem;
+    font-family: 'Fredericka the Great', cursive;
+    line-height: 2rem;
+    padding-left: 1rem;
+}
+	.banner-note-wrapper button {
+    margin: auto;
+    display: block;
+    font-family: "Dubai";
+    font-weight: bolder;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    border-radius: 0px;
+    padding: 0.4rem 0.5rem;
+    margin-top: 2px;
+    transition: 0.3s all ease;
+    font-size: 0.5rem;
+}
+#choose-enjoy {
+    height: auto;
+    margin-top: unset;
+    text-align: center;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 10%;
+    }
+    #choose-enjoy h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 1.7rem;
+    }
+    #choose-enjoy p {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    padding: 0rem 2rem;
+    }
+    #choose-enjoy p {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    padding: 0rem 2rem;
+    }
+    #choose-enjoy .bread {
+    padding-bottom: unset;
+    margin-top: 2rem;
+    }
+    #choose-enjoy .pasta {
+    padding-bottom: unset;
+    margin-top: 3rem;
+    }
+    #discover {
+    height: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+    }
+    #discover h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    }
+    #discover p {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    padding: 0rem 2rem;
+    }
+    .Image-right {
+    margin-top: 2.2rem !important;
+    position: relative;
+    }
+    #Try_it_today .Image-1 {
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 2rem 1.2rem;
+    font-weight: bolder;
+    max-width: 40%;
+    }
+    #Try_it_today .Image-1 span {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-2 {
+    position: absolute;
+    top: 0;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1.2rem;
+    font-weight: bolder;
+    max-width: 50%;
+    }
+    #Try_it_today .Image-2 span {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-3 {
+    position: absolute;
+    top: 9em;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1.5rem;
+    font-weight: bolder;
+    max-width: 50%;
+    }
+    #Try_it_today .Image-3 span {
+    font-size: 1.7rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #reservation h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2rem;
+    text-transform: uppercase;
+    }
+    footer {
+    height: auto;
+    background-image: url(../images/BG Image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: unset;
+    color: #fff;
+    }
+    footer .footer-logo {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    }
+    footer p {
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    /* padding: 0rem 4.5rem; */
+    color: #fff;
+    padding-bottom: 2rem;
+    }
+    footer .Address_wrap {
+    padding-top: 1rem;
+    }
+    footer .Address_wrap p {
+    font-size: 1.2rem;
+    padding-bottom: unset;
+    /* padding-top: 3rem; */
+    }
+    footer span {
+    color: #fff;
+    padding: 5rem 0rem 3rem;
+    display: inline-block;
+    }
+    
+
+}
+@media(max-width:479.98px){
+    .navbar-brand .img-fluid{
+        max-width: 40%;
+    }
+    .navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    background: rgba(255,255,255,0.9)!important;
+    }
+    #banner {
+    height: auto;
+    background-image: url(../images/Group 1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+    padding-bottom: 80%;
+}
+    .banner-note-wrapper {
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    left: 10%;
+    }
+    .banner-note-wrapper h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 1rem;
+    font-weight: bold;
+}
+    .banner-note-wrapper h3 {
+    font-family: "Dubai";
+    font-size: 0.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+    font-weight: bold;
+    }
+    .banner-note-wrapper h2 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 1.4rem;
+    text-transform: uppercase;
+    }
+    hr {
+    margin: auto!important;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;
+    width: 80%;
+    }
+    .happy-hour-text-wrap {
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+    margin-top: 5px;
+}
+    .happy-hour-text-wrap p {
+    font-size: 0.4rem;
+    font-weight: 500;
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+}
+    .happy-hour-text-wrap span {
+    font-size: 1rem;
+    font-family: 'Fredericka the Great', cursive;
+    line-height: 1rem;
+    padding-left: 1rem;
+}
+    .banner-note-wrapper button {
+    margin: auto;
+    display: block;
+    font-family: "Dubai";
+    font-weight: bolder;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    border-radius: 0px;
+    padding: 0.4rem 0.5rem;
+    margin-top: 2px;
+    transition: 0.3s all ease;
+    font-size: 0.2rem;
+}
+#choose-enjoy {
+    height: auto;
+    margin-top: unset;
+    text-align: center;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 10%;
+    }
+    #choose-enjoy h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 1.2rem;
+    }
+    #choose-enjoy p {
+    font-family: "Dubai";
+    font-size: 0.6rem;
+    padding: 0rem 2rem;
+    }
+    #choose-enjoy .bread {
+    padding-bottom: unset;
+    margin-top: 2rem;
+    }
+    #choose-enjoy .pasta {
+    padding-bottom: unset;
+    margin-top: 3rem;
+    }
+    #discover {
+    height: auto;
+    width: 100%;
+    text-align: center;
+    margin-top: 2rem;
+    }
+    #discover h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    }
+    #discover p {
+    font-family: "Dubai";
+    font-size: 0.6rem;
+    padding: 0rem 2rem;
+    }
+    .Image-right {
+    margin-top: 2.2rem !important;
+    position: relative;
+    }
+    #Try_it_today .Image-1 {
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1rem;
+    font-weight: bolder;
+    max-width: 40%;
+    }
+    #Try_it_today .Image-1 span {
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-2 {
+    position: absolute;
+    top: 0;
+    color: #fff;
+    z-index: 999;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1rem;
+    font-weight: bolder;
+    max-width: 50%;
+    }
+    #Try_it_today .Image-2 span {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #Try_it_today .Image-3 {
+    position: absolute;
+    top: 9em;
+    color: #fff;
+    z-index: 999;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding: 1rem;
+    font-weight: bolder;
+    max-width: 50%;
+    }
+    #Try_it_today .Image-3 span {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    }
+    #reservation h1 {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 2rem;
+    text-transform: uppercase;
+    }
+    footer {
+    height: auto;
+    background-image: url(../images/BG Image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: unset;
+    color: #fff;
+    }
+    footer .footer-logo {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    }
+    footer p {
+    font-family: "Dubai";
+    font-size: 0.8rem;
+    /* padding: 0rem 4.5rem; */
+    color: #fff;
+    padding-bottom: 1rem;
+    }
+    footer .Address_wrap {
+    padding-top: 1rem;
+    }
+    footer .Address_wrap p {
+    font-size: 0.9rem;
+    padding-bottom: unset;
+    /* padding-top: 3rem; */
+    }
+    footer span {
+    color: #fff;
+    padding: 3rem 0rem 3rem;
+    display: inline-block;
+    }
+    }

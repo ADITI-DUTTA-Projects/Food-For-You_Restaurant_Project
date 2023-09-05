@@ -1,0 +1,427 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.navbar-brand {
+	margin: 0rem 0rem 0rem 0rem;
+}
+.navbar-nav {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin: 0rem 0rem 0rem 0rem;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family: "Dubai";
+    font-weight: bolder;
+    letter-spacing: 0.2rem;
+}
+.nav-item::after{
+    content: '';
+    display: block;
+    width: 0;
+    border-bottom: #000 solid 3px;
+    transition: width 0.3s ease-in;
+     margin: 0px 5px 0px 5px;
+}
+.nav-item:hover::after {
+  width: 100%;
+}
+.active{
+    font-weight: bolder;
+}
+#banner{
+    height:auto;
+    background-image: url("../images/Group 1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    display: block;
+    padding-bottom: 70%;
+}
+.banner-note-wrapper{
+  position: absolute;
+    top: 20%;
+    text-align: center;
+    left: 15%;
+}
+.banner-note-wrapper h1{
+   font-family: 'Dancing Script', cursive;
+    font-size: 3.6rem;
+    font-weight: bold;
+}
+.banner-note-wrapper h2{
+   font-family: 'Fredericka the Great', cursive;
+    font-size: 5rem;
+   text-transform: uppercase;
+}
+.banner-note-wrapper h3{
+   font-family: "Dubai";
+    font-size: 1.6rem;
+   text-transform: uppercase;
+   letter-spacing: 0.2rem;
+   font-weight: bold;
+}
+.happy-hour-text-wrap{
+    font-family: 'Fredericka the Great', cursive;
+    display: inline-flex;
+    margin-top: 20px;
+}
+.happy-hour-text-wrap p{
+    font-size:1.2rem ;
+    font-weight: 500;
+     font-family: 'Fredericka the Great', cursive;
+     display: inline-flex;
+}
+.happy-hour-text-wrap span{
+    font-size: 3.5rem;
+     font-family: 'Fredericka the Great', cursive;
+     line-height: 3.5rem;
+     padding-left: 1rem;
+}
+.banner-note-wrapper button{
+   margin: auto;
+    display: block;
+    font-family: "Dubai";
+    font-weight: bolder;
+     letter-spacing: 0.1rem;
+     text-transform: uppercase;
+     border-radius: 0px;
+     padding:0.5rem 1.5rem;
+     margin-top:20px;
+     transition: 0.3s all ease;
+}
+#choose-enjoy {
+    height: auto;
+    margin-top: -5rem;
+    text-align: center;
+   background-image: url("../images/Design-new.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding-bottom: 10%;
+  }
+
+#choose-enjoy h1{
+     font-family: 'Fredericka the Great', cursive;
+     font-size: 3rem;
+}
+#choose-enjoy p{
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    padding: 0rem 4.5rem;
+}
+#choose-enjoy  .row{
+    margin-top: 4rem;
+}
+#choose-enjoy h3{
+   font-family: "Dubai";
+    font-size: 1.3rem;
+   text-transform: uppercase;
+/*   letter-spacing: 0.2rem;*/
+   font-weight: bold;
+}
+#choose-enjoy .bread{
+    padding-bottom: 1.35rem;
+}
+#choose-enjoy .pasta{
+    padding-bottom: 0.23rem;
+}
+#choose-enjoy  .btn{
+   margin: auto;
+    display: block;
+    font-family: "Dubai";
+    font-weight: bolder;
+     letter-spacing: 0.1rem;
+     text-transform: uppercase;
+     border-radius: 0px;
+     padding:0.5rem 1.5rem;
+     margin-top:20px;
+     transition: 0.3s all ease;
+     background: #ffe001;
+}
+#choose-enjoy  .btn:hover{
+    opacity: 0.7;
+}
+#discover{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+#discover h3{
+   font-family: "Dubai";
+    font-size: 1.6rem;
+   text-transform: uppercase;
+   letter-spacing: 0.2rem;
+   font-weight: bold;
+}
+#discover h1{
+    font-family: 'Fredericka the Great', cursive;
+     font-size: 3rem;
+     text-transform: uppercase;
+}
+#discover p{
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    padding: 0rem 4.5rem;
+}
+#Try_it_today{
+    padding-top: 4rem;
+    margin-bottom: 6rem;
+    position: relative;
+/*    margin-top: 700px;*/
+}
+#Try_it_today img{
+    
+}
+#Try_it_today .Image-1{
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding:1.2rem;
+    font-weight: bolder;
+     max-width: 15%;
+}
+#Try_it_today .Image-1 span{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+
+}
+#Try_it_today .Image-2{
+    position: absolute;
+    top: 4rem;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding:1.2rem;
+    font-weight: bolder;
+     max-width: 15%;
+}
+#Try_it_today .Image-2 span{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+
+}
+#Try_it_today .image-3{
+    padding-top: 2.2rem;
+}
+#Try_it_today .Image-3{
+    position: absolute;
+    top: 12em;
+    color: #fff;
+    z-index: 999;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+    padding:1.2rem;
+    font-weight: bolder;
+     max-width: 15%;
+}
+#Try_it_today .Image-3 span{
+    font-size: 2rem;
+    text-transform: uppercase;
+    font-family: "Dubai";
+
+}
+#reservation{
+    height: auto;
+    text-align: center;
+    padding-bottom: 5%;
+}
+#reservation h3{
+   font-family: "Dubai";
+    font-size: 1.6rem;
+   text-transform: uppercase;
+   letter-spacing: 0.2rem;
+   font-weight: bold;
+}
+#reservation h1{
+    font-family: 'Fredericka the Great', cursive;
+     font-size: 3rem;
+     text-transform: uppercase;
+}
+#reservation .row{
+    margin-top: 2rem;
+}
+#reservation input[type="text"] {
+    margin: 1.5rem 0rem;
+}
+#reservation input[type="date"] {
+    margin: 1.5rem 0rem;
+}
+#reservation input[type="number"] {
+    margin: 1.5rem 0rem;
+}
+#reservation .form-control{
+    padding: 1rem;
+}
+
+#reservation .btn {
+    /* margin: auto; */
+    display: block;
+    font-family: "Dubai";
+    font-weight: bolder;
+    letter-spacing: 0.1rem;
+    text-transform: uppercase;
+    border-radius: 0px;
+    padding: 1rem;
+    /* margin-top: 20px; */
+    transition: 0.3s all ease;
+    background: #ffe001;
+    margin: 1.5rem 0rem;
+}
+#reservation  .btn:hover{
+    opacity: 0.7;
+}
+footer{
+    height: auto;
+    background-image: url("../images/BG Image.jpg");
+    background-repeat: no-repeat;
+    background-size:100%;
+    /* padding-bottom: 21%; */
+    color: #fff;
+}
+
+footer .footer-logo{
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+footer p{
+    font-family: "Dubai";
+    font-size: 1.1rem;
+    /*    padding: 0rem 4.5rem;*/
+    color:#fff;
+    padding-bottom: 5rem;
+}
+footer span{
+    /*position: absolute;
+    bottom: 2rem;
+    left: unset;*/
+    color: #fff;
+    padding: 7rem 0rem 3rem;
+    display: inline-block;
+}
+footer i{
+    color: #ffe001;
+    font-size: 1.5rem;
+}
+footer .Address_wrap{
+    padding-top: 12rem;
+}
+footer .Address_wrap p{
+    font-size: 1.5rem;
+    padding-bottom: unset;
+    /* padding-top: 3rem; */
+}
+#scroll{
+    position: fixed;
+    right: 10px;
+    bottom: 30px;
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    background: #ffe001;
+    color: #000;
+    display: none;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#scroll i{
+    position:absolute;
+    top:0;
+    left:0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-size: 2rem;
+font-weight: bold;
+display: table;
+animation: sample 2s linear 1s infinite;
+animation-play-state: running;
+}
+
+@keyframes sample{
+    0%{
+        transform: translateY(10px);
+        opacity: 0;
+    }
+    50%{
+        transform: translateY(0px);
+        opacity: 1;
+    }
+    100%{
+        transform: translateY(-10px);
+        opacity: 0;
+    }
+}
+.sticky-icon{
+    z-index: 1;
+    position: fixed;
+    top: 15%;
+    right: 0%;
+    display: inline-flex;
+    flex-direction: column;
+    width: 220px;
+}
+
+.sticky-icon a{
+    transform: translate(160px,0px);
+    border-radius: 50px 0px 0px 50px;
+    text-align: left;
+    margin: 2px;
+    text-decoration: none;
+    text-transform:uppercase;
+    padding:10px;
+    font-size:22px;
+    font-family:'Oswald', sans-serif;
+    transition:all 0.8s;
+}
+.sticky-icon a:hover  {
+    color:#FFF;
+    transform:translate(0px,0px);
+}  
+
+.sticky-icon a:hover i  {
+    transform:rotate(360deg);
+}
+.Facebook  {
+    background-color:#2C80D3;
+    color:#FFF;}
+    
+.sticky-icon a i {
+    background-color:#FFF;
+    height:40px;
+    width:40px;
+    color:#000;
+    text-align:center;
+    line-height:40px;
+    border-radius:50%;
+    margin-right:20px;
+    transition:all 0.5s;
+}
+.sticky-icon a i.fa-facebook-f  {
+    background-color:#FFF;
+    color:#2C80D3;}
+    
