@@ -408,7 +408,19 @@ animation-play-state: running;
 }
 .Facebook  {
     background-color:#2C80D3;
-    color:#FFF;}
+    color:#FFF;
+}
+.twitter{
+    background-color: #000000;
+}
+.whatsapp{
+    background-color: #25D366;
+    color: #25D366;
+}
+.instagram{
+    background-color: #C13584;
+    color:#C13584 ;
+}
     
 .sticky-icon a i {
     background-color:#FFF;
@@ -423,5 +435,18 @@ animation-play-state: running;
 }
 .sticky-icon a i.fa-facebook-f  {
     background-color:#FFF;
-    color:#2C80D3;}
+    color:#2C80D3;
+}
+.sticky-icon a i.fa-x-twitter  {
+    background-color:#FFF;
+    color:#000000;
+}
+.sticky-icon a i.fa-whatsapp  {
+    background-color:#FFF;
+    color:#25D366;
+}
+.sticky-icon a i.fa-instagram  {
+    background-color:#FFF;
+    color:#C13584;
+}
     
